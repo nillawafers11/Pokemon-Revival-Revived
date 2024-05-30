@@ -21,7 +21,7 @@ Overall, the board was in bad condition and needed to be cleaned. I decided to u
 ![alt text](https://github.com/nillawafers11/Pokemon-Revival-Revived/blob/main/GB/IMG_3093.jpg)
 
 ## The Plan
-I was left with one option -- swap the ROM chip from Pokémon Silver board to a donor board. After some research, I came across a [Gameboy hardware database](https://gbhwdb.gekkio.fi/cartridges/mbc3.html) that lists boards that use the same mapper chip ([MBC3](https://niwanetwork.org/wiki/MBC3_(Game_Boy_mapper))). This website was crucial in helping me find a game that could give its life to save another. That game was Trade & Battle Card Hero.
+I was left with one option -- swap the ROM chip from Pokémon Silver board to a donor board. After some research, I came across a [Gameboy hardware database](https://gbhwdb.gekkio.fi/cartridges/mbc3.html) that lists boards that use the same mapper chip ([MBC3](https://niwanetwork.org/wiki/MBC3_(Game_Boy_mapper))). This website was crucial in helping me find a game that could give its life to save another. That game was [Trade & Battle Card Hero](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Trade+%26+Battle+Card+Hero+gameboy&_sacat=0&_odkw=Trade+%26+Battle+Card+Hero&_osacat=0).
 
 While Pokémon Silver had a board model of DMG-KGDU-10 and Trade & Battle Card Hero had a board model of DMG-KDGU-01, they were functionally the same. This is because they shared the same mapper chip. All I had to do was swap the ROM chip (circled in red below) from the Pokémon Silver board to the Trade & Battle Card Hero board.
 I chose Trade & Battle Card Hero because it was the cheapest option (I think I paid around $15 on eBay for it).
