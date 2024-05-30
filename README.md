@@ -16,4 +16,6 @@ Overall, the board was in bad condition and needed to be cleaned. I decided to u
 # The Plan
 I was left with one option -- swap the ROM chip from Pokémon Silver board to a donor board. After some research, I came across a [Gameboy hardware database](https://gbhwdb.gekkio.fi/cartridges/mbc3.html) that lists boards that use the same mapper chip [Gameboy hardware database](https://niwanetwork.org/wiki/MBC3_(Game_Boy_mapper)). This website was crucial in helping me find a game that could give its life to save another. That game was Trade & Battle Card Hero.
 
-While Pokémon Silver had a board model of DMG-KGDU-10 and Trade & Battle Card Hero had a board model of DMG-KDGU-01, they were functionally the same. This is because they shared the same mapper chip. All I had to do was swap the ROM chip 
+While Pokémon Silver had a board model of DMG-KGDU-10 and Trade & Battle Card Hero had a board model of DMG-KDGU-01, they were functionally the same. This is because they shared the same mapper chip. All I had to do was swap the ROM chip from the Pokémon Silver board to the Trade & Battle Card Hero board.
+
+![ROM chip circled in red](https://github.com/nillawafers11/PokemonSilverRevived/blob/main/GB/ROMchip.jpg)
