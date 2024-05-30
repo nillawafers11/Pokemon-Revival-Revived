@@ -20,7 +20,7 @@ While Pokémon Silver had a board model of DMG-KGDU-10 and Trade & Battle Card H
 
 ![ROM chip circled in red](https://github.com/nillawafers11/PokemonSilverRevived/blob/main/GB/ROMchip.jpg)
 
-This was achieved by using a hot air gun, flux, and kapton tape. First, cover all components (except the ROM chip) on the board with the kapton tape. Kapton tape is a great insulator, meaning that it is good at holding heat and not transferring heat. This will protect the other components from potentially being damaged by the heat, or being desoldered off the board from the heat of the heat gun. Next, apply a liberal amount of flux on the legs of the ROM chip. Flux allows the solder to flow more uniformly over surfaces without balling up.
+This was achieved by using a hot air gun, flux, and kapton tape. First, cover all components (except the ROM chip) on the board with the kapton tape. Kapton tape is a great insulator, meaning that it is good at holding heat and not transferring heat. This will protect the other components from potentially being damaged by the heat, or being desoldered off the board from the heat of the heat gun. Next, apply a liberal amount of flux on the legs of the ROM chip. Flux allows the solder to flow more uniformly over surfaces without balling up. You can now start applying heat with your heat gun.
 
 Side note: I made the mistake of not covering ALL components with kapton tape and I accidentally desoldered a capacitor (C3 as denoted on the board). After I removed the ROM chip, the chip was covered in flux. Flux is pretty sticky when it's not hot, and I was extremely lucky that the C3 capacitor was STUCK to the ROM chip. Had I not noticed, I would've been scratching my head for days wondering why the game wasn't working.
 
