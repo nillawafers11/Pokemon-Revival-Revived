@@ -50,7 +50,7 @@ Apply flux to the legs again and apply heat. After a minute or so, the solder wa
 
 I do recommend applying solder with a soldering iron to the legs of the chip to ensure that each leg is connected and secured to the board.
 
-Then, replace the battery. I only had CR1616 batteries on hand, which will work (and what is pictured), but won't last as long. Use CR2025 batteries as denoted on the board. There is a plethora of guides online on how to replace a Gameboy battery. [Here's one from iFixit.](https://www.ifixit.com/Guide/Game+Boy+Cartridge+Battery+Replacement/27213)
+Then, replace the battery. I only had CR1616 batteries on hand, which will work (and what is pictured above), but won't last as long. Use CR2025 batteries as denoted on the board. There is a plethora of guides online on how to replace a Gameboy battery. [Here's one from iFixit.](https://www.ifixit.com/Guide/Game+Boy+Cartridge+Battery+Replacement/27213)
 
 Clean any residual flux thoroughly from the board with at least 90% isopropyl alcohol and you're almost done.
 
