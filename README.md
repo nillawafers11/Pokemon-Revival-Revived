@@ -64,10 +64,10 @@ You're going to want to test that the transplant was a success by testing it in 
 If it doesn't work after following the steps, proceed to the next part in this guide.
 
 ## Fixes
-If you're reading this step, it means something went wrong with the transplant and your game isn't booting. There could be several issues at hand, and I'll try to list solutions to each of those issues. After attempting each solution, retest.
+If you're reading this step, it means something went wrong with the transplant and your game isn't booting. There could be a couple issues at hand, and I'll try to list solutions to each of those issues. After attempting each solution, retest.
 
 #### Pins are dirty
-It's possible that in the transplant stage, the pins at the bottom of the board weren't cleaned thoroughly. Use a cotton swap with your isopropyl alcohol and ensure that the pins are clean.
+It's possible that in the transplant stage, the pins at the bottom of the board weren't cleaned thoroughly. Use a cotton swab with your isopropyl alcohol and ensure that the pins are clean.
 
 #### The ROM chip isn't properly connected to the board
 Examine the legs of the ROM chip on the board to ensure that each leg is soldered. If they aren't, reflow the solder with a soldering iron. You only need a little bit on the tip of your iron, it'll go a long way. I had to do this myself when I tested the game and it wouldn't boot.
