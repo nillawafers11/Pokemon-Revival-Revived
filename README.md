@@ -1,5 +1,4 @@
 # Pokémon Silver: Revived
-A corroded copy of Pokemon Silver saved from death.
 
 Disclaimer: This is a guide on how to fix a copy of Pokémon Silver that has corroded pins. It will not cover details in depth, but rather a general overview to guide you on how to fix a copy of Pokémon for the Gameboy that has pins that are too far corroded to fix. It is intended for people with beginner/intermediate soldering skills.
 
