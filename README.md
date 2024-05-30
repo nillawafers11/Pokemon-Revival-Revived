@@ -24,4 +24,4 @@ This was achieved by using a hot air gun, flux, and kapton tape. First, cover al
 
 Side note: I made the mistake of not covering ALL components with kapton tape and I ended up accidentally desoldering a capacitor (C3 as denoted on the board).
 
-After applying heat for about a minute onto the ROM chip, the solder was loose enough to remove the chip.
+After applying heat for about a minute onto the ROM chip, the solder was loose enough to remove the chip from the board with a pair of tweezers. I used regular metal ones but ceramic tweezers are recommended.
