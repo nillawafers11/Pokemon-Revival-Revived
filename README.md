@@ -20,7 +20,7 @@ While Pokémon Silver had a board model of DMG-KGDU-10 and Trade & Battle Card H
 
 ![ROM chip circled in red](https://github.com/nillawafers11/PokemonSilverRevived/blob/main/GB/ROMchip.jpg)
 
-This was able to be achieved by using a hot air gun, flux, and kapton tape. First, cover all components on the board with the kapton tape. Kapton tape is a great insulator, meaning that it is good at holding heat and not transferring heat. This will protect the other components from potentially being damaged by the heat, or being desoldered off the board from the heat of the heat gun. Next, apply a liberal amount of flux on the legs of the ROM chip. Flux allows the solder to flow more uniformly over surfaces without balling up.
+This was achieved by using a hot air gun, flux, and kapton tape. First, cover all components (except the ROM chip) on the board with the kapton tape. Kapton tape is a great insulator, meaning that it is good at holding heat and not transferring heat. This will protect the other components from potentially being damaged by the heat, or being desoldered off the board from the heat of the heat gun. Next, apply a liberal amount of flux on the legs of the ROM chip. Flux allows the solder to flow more uniformly over surfaces without balling up.
 
 Side note: I made the mistake of not covering ALL components with kapton tape and I ended up accidentally desoldering a capacitor (C3 as denoted on the board).
 
